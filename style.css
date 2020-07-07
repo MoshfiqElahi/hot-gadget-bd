@@ -30,11 +30,14 @@ ol.carousel-indicators .active{
     box-shadow: 7px 5px 10px lightcyan;
     border-style: none;
     border-radius: 10px;
-    text-align: center;
 }
 .card-footer{
     background-color: white;
     border-style: none;
+}
+.see-all{
+    color: purple;
+    text-decoration: none;
 }
 .cat-pdes{
     border: 1px solid rgb(250, 244, 239);
@@ -51,6 +54,13 @@ ol.carousel-indicators .active{
     box-shadow: 5px 5px 20px lightgrey;
     padding-top: 50px;
     text-align: center;
+}
+hr{
+    width: 80px;
+    height: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #ff9c35, #FFD019);
+
 }
 footer{
     text-align: center;
