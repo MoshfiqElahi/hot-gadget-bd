@@ -1,0 +1,57 @@
+.container{
+    margin-bottom: 30px;
+}
+.bg-img{
+    padding: 25px 40px;
+    background-image: url(./images/dooted-qube.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+.banner{
+    background-image: url(./images/water-mark.png);
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: 60px;
+}
+.buy-now{
+    color: white;
+    background-color: black;
+    border-style: none;
+    padding: 7px 12px;
+    border-radius: 5px;
+}
+ol.carousel-indicators li {
+    background-color: #CECECE;
+}
+ol.carousel-indicators .active{
+    background-image: linear-gradient(to right, #ff9c35, #FFD019);
+}
+.card{
+    box-shadow: 7px 5px 10px lightcyan;
+    border-style: none;
+    border-radius: 10px;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-style: none;
+}
+.cat-pdes{
+    border: 1px solid rgb(250, 244, 239);
+    border-style: none;
+    margin: 10px;
+    background-color: rgb(255, 244, 233);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 250px;
+    box-shadow: 5px 5px 20px lightgrey;
+    padding-top: 50px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
